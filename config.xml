@@ -3,17 +3,17 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.hello-world"
+        id        = "com.kbarnea.camerageo"
         version   = "1.0.0">
 
-    <name>GeoCamera</name>
+    <name>kbarneaPortfolio</name>
 
     <description>
-        A Phonegap app to take and tag a photo
+        Portfolio app for Barnea Internet Solutions
     </description>
 
-    <author href="http://www.mattgifford.co.uk" email="me@mattgifford.co.uk">
-        Matt Gifford
+    <author href="http://kbarnea.com" email="kobi@kbarnea.com">
+        Kobi Barnea
     </author>
 
 
@@ -32,7 +32,7 @@
 
     <!-- START Preferences -->
     <!-- Customize your app and platform with the preference element. -->
-    <preference name="phonegap-version"           value="2.7.0" />
+    <preference name="phonegap-version"           value="2.9.0" />
     <preference name="orientation"                value="default" />
     <preference name="target-device"              value="universal" />
     <preference name="fullscreen"                 value="true" />

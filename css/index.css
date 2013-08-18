@@ -43,6 +43,7 @@ body {
     padding:0px;
     text-transform:uppercase;
     width:100%;
+	font-size:16px;
 }
 
 /* Portrait layout (default) */
@@ -220,3 +221,11 @@ h1 {
     
     left: -20px;
 }
+
+img {
+margin: auto;
+width: 80%;
+text-align: center;
+}
+
+p {padding: 0 10px;}
